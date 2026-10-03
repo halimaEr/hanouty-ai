@@ -137,16 +137,4 @@ SECRET_KEY=your_secret_key
 ```
 
 
-
-
----
-
-## 👩‍💻 Équipe
-
-Projet réalisé par :
-
-- Halima Er-reguigue
-- Omayma Alami Ouriagli
-- Meryem Khayati
-
 ---
